@@ -3,11 +3,47 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:tanndev/Tanndev-Home.git" />
+          <option name="url" value="http://hub.jazz.net" />
+          <option name="userName" value="jftanner@us.ibm.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://hub.jazz.net/git/jtanner/depth-finder" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.ibm.com/bzukowsky/osc-cli.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:jftanner/License-Matcher.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:Cloud-DevOps-Transformation-Services/license_approval_status.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:Cloud-DevOps-Transformation-Services/awsom-connector.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:Cloud-DevOps-Transformation-Services/awsom-collector.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:Cloud-DevOps-Transformation-Services/osc-scans.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:Cloud-DevOps-Transformation-Services/package-database-maintenance.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:Cloud-DevOps-Transformation-Services/package-db-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jtanner\Development" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Development" />
   </component>
 </application>
