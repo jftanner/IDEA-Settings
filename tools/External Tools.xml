@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="npm" />
       <option name="PARAMETERS" value="install" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Development/depth-finder" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/jtanner/Documents/Development/depth-finder" />
     </exec>
   </tool>
   <tool name="Build CSS" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
