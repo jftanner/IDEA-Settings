@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File '/Users/jftanner/Documents/Development/package-db-api/client/management_ui/scripts/managementUI.js'" />
+    <option name="defaultScopeName" value="File '/Users/jftanner/Documents/Development/package-db-api/client/management_ui/scripts/managementUI.js'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/jftanner/Documents/Development/package-db-api/client/management_ui/scripts/managementUI.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
