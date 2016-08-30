@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/jftanner/Documents/Development/package-db-api/client/management_ui/scripts/managementUI.js'" />
-    <option name="defaultScopeName" value="File '/Users/jftanner/Documents/Development/package-db-api/client/management_ui/scripts/managementUI.js'" />
+    <option name="customScope" value="File '/Users/jftanner/Documents/Development/package-db-api/common/models/package.js'" />
+    <option name="defaultScopeName" value="File '/Users/jftanner/Documents/Development/package-db-api/common/models/package.js'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/jftanner/Documents/Development/package-db-api/client/management_ui/scripts/managementUI.js'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/jftanner/Documents/Development/package-db-api/common/models/package.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
