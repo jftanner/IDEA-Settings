@@ -4,4 +4,8 @@
       <version-cache version="4.2.3" last-modified="1453387015000" />
     </local-interpreter>
   </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+  </component>
 </application>
