@@ -1,7 +1,7 @@
 <application>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="4.2.3" last-modified="1453387015000" />
+      <version-cache version="6.5.0" last-modified="1472224704000" />
     </local-interpreter>
   </component>
   <component name="RefactoringSettings">
