@@ -46,6 +46,10 @@
           <option name="url" value="git@github.com:tanndev/loopback-connector-cloudant.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:Cloud-DevOps-Transformation-Services/wicc4d-license-search.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Development" />
