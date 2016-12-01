@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/jftanner/Documents/Development/package-db-api/common/lib/logEdits.js'" />
-    <option name="defaultScopeName" value="File '/Users/jftanner/Documents/Development/package-db-api/common/lib/logEdits.js'" />
+    <option name="customScope" value="Project 'package-db-api'" />
+    <option name="defaultScopeName" value="Project 'package-db-api'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/jftanner/Documents/Development/package-db-api/common/lib/logEdits.js'" />
+    <option name="SEARCH_SCOPE" value="Project 'package-db-api'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
