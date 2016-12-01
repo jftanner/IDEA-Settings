@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'package-db-api'" />
     <option name="defaultScopeName" value="Project 'package-db-api'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'package-db-api'" />
     <recentFileMasks>
       <mask>*.properties</mask>
