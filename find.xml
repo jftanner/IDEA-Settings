@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'package-db-api'" />
-    <option name="defaultScopeName" value="Project 'package-db-api'" />
+    <option name="customScope" value="Client Code" />
+    <option name="defaultScopeName" value="Client Code" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'package-db-api'" />
+    <option name="SEARCH_SCOPE" value="Client Code" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
