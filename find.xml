@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Client Code" />
     <option name="defaultScopeName" value="Client Code" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Client Code" />
     <recentFileMasks>
       <mask>*.properties</mask>
