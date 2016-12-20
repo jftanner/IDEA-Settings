@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Client Code" />
     <option name="defaultScopeName" value="Client Code" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Client Code" />
     <recentFileMasks>
       <mask>*.properties</mask>
