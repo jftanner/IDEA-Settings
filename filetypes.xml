@@ -19,6 +19,7 @@
       <mapping ext="0_no_copyleft_exception" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="game" type="PLAIN_TEXT" />
+      <mapping ext="tgz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
