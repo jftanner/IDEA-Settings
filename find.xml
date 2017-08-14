@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'wild'" />
-    <option name="defaultScopeName" value="Project 'wild'" />
+    <option name="customScope" value="Project 'wicked-cli'" />
+    <option name="defaultScopeName" value="Project 'wicked-cli'" />
+    <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'wild'" />
+    <option name="SEARCH_SCOPE" value="Project 'wicked-cli'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
