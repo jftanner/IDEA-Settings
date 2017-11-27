@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tiff" type="Native" />
       <mapping pattern="holowaychuk_license" type="PLAIN_TEXT" />
       <mapping pattern="mit_lcense" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
@@ -8,11 +9,11 @@
       <mapping pattern="software_license_agreement" type="PLAIN_TEXT" />
       <mapping pattern="watch-css" type="PLAIN_TEXT" />
       <mapping pattern="uploads" type="PLAIN_TEXT" />
+      <mapping pattern="Apache2-Kubernetes" type="PLAIN_TEXT" />
       <mapping pattern="Apache_project" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="build-css" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="Apache2-Kubernetes" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
