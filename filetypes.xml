@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="tiff" type="Images" />
       <mapping ext="tiff" type="Native" />
       <mapping pattern="holowaychuk_license" type="PLAIN_TEXT" />
       <mapping pattern="mit_lcense" type="PLAIN_TEXT" />
@@ -10,6 +11,7 @@
       <mapping pattern="watch-css" type="PLAIN_TEXT" />
       <mapping pattern="uploads" type="PLAIN_TEXT" />
       <mapping pattern="Apache2-Kubernetes" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Apache_project" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="build-css" type="PLAIN_TEXT" />
