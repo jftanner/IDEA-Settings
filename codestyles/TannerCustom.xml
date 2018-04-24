@@ -22,7 +22,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
-    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="WRAP_LONG_LINES" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Jade">
