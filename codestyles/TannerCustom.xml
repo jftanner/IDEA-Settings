@@ -21,6 +21,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
     <option name="WRAP_LONG_LINES" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Jade">
