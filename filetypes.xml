@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="post-merge" type="Bash" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <removed_mapping ext="tiff" type="Images" />
       <removed_mapping pattern="Jenkinsfile" type="Jenkins file" />
@@ -20,7 +21,6 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="build-css" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
       <mapping ext="regex" type="PLAIN_TEXT" />
