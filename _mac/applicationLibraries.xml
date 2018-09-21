@@ -5,6 +5,16 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/pug" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="angular" type="javaScript">
       <properties>
         <sourceFilesUrls>
