@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/async" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/cheerio" type="javaScript">
       <CLASSES />
       <JAVADOC />
