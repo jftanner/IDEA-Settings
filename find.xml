@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\documentation\rules.md [maelstrom]'" />
-    <option name="defaultScopeName" value="File '...\documentation\rules.md [maelstrom]'" />
-    <option name="SEARCH_SCOPE" value="File '...\documentation\rules.md [maelstrom]'" />
+    <option name="customScope" value="Documentation" />
+    <option name="defaultScopeName" value="Documentation" />
+    <option name="SEARCH_SCOPE" value="Documentation" />
   </component>
 </application>
