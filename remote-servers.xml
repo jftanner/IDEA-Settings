@@ -1,6 +1,6 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Local Windows Docker" type="docker">
+    <remote-server name="Nyx Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://localhost:2375" />
       </configuration>
