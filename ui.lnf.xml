@@ -5,7 +5,8 @@
   <component name="UISettings">
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="FONT_FACE" value=".SFNSText-Regular" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="smoothScrolling" value="true" />
   </component>
 </application>
