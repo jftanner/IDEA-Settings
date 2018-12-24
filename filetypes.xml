@@ -3,29 +3,33 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="dockerfile-redis" type="Docker file" />
+      <mapping pattern="*.Dockerfile.*" type="Dockerfile" />
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Jenkinsagent" type="Dockerfile" />
+      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping pattern="holowaychuk_license" type="PLAIN_TEXT" />
-      <mapping pattern="mit_lcense" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="mit_lcense" type="PLAIN_TEXT" />
       <mapping pattern="Apache_notice" type="PLAIN_TEXT" />
-      <mapping pattern="software_license_agreement" type="PLAIN_TEXT" />
       <mapping pattern="watch-css" type="PLAIN_TEXT" />
-      <mapping pattern="uploads" type="PLAIN_TEXT" />
       <mapping pattern="jwt_secret" type="PLAIN_TEXT" />
-      <mapping pattern="session_secret" type="PLAIN_TEXT" />
-      <mapping pattern="Apache_project" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="build-css" type="PLAIN_TEXT" />
       <mapping pattern="Apache2-Kubernetes" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping pattern="uploads" type="PLAIN_TEXT" />
+      <mapping pattern="Apache_project" type="PLAIN_TEXT" />
+      <mapping pattern="session_secret" type="PLAIN_TEXT" />
+      <mapping pattern="holowaychuk_license" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="software_license_agreement" type="PLAIN_TEXT" />
       <mapping ext="regex" type="PLAIN_TEXT" />
-      <mapping ext="0_no_copyleft_exception" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="license" type="PLAIN_TEXT" />
       <mapping ext="game" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="0_no_copyleft_exception" type="PLAIN_TEXT" />
+      <mapping ext="license" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <removed_mapping ext="jenkins-agent" approved="true" type="Docker file" />
       <mapping pattern="post-merge" type="Bash" />
     </extensionMap>
   </component>
