@@ -20,6 +20,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/passport" type="javaScript">
       <CLASSES />
       <JAVADOC />
