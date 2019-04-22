@@ -29,6 +29,7 @@
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
       <mapping ext="regex" type="PLAIN_TEXT" />
+      <mapping ext="standard" type="PLAIN_TEXT" />
       <mapping ext="0_no_copyleft_exception" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="hbs" type="PLAIN_TEXT" />
