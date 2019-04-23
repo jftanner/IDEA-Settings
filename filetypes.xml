@@ -34,6 +34,7 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="game" type="PLAIN_TEXT" />
+      <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
