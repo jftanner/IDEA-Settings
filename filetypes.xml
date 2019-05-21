@@ -16,6 +16,7 @@
       <mapping pattern="Apache_notice" type="PLAIN_TEXT" />
       <mapping pattern="software_license_agreement" type="PLAIN_TEXT" />
       <mapping pattern="NA Artifactory" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="WHERE-WAS-I" type="PLAIN_TEXT" />
       <mapping pattern="watch-css" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
@@ -26,9 +27,8 @@
       <mapping pattern="Apache2-Kubernetes" type="PLAIN_TEXT" />
       <mapping pattern="Apache_project" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="build-css" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="EU Artifactory" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
@@ -36,6 +36,7 @@
       <mapping ext="standard" type="PLAIN_TEXT" />
       <mapping ext="0_no_copyleft_exception" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="game" type="PLAIN_TEXT" />
       <mapping ext="jenkins" type="PLAIN_TEXT" />
