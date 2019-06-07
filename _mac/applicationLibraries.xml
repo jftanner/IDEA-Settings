@@ -35,5 +35,15 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/server" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/socket.io" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
