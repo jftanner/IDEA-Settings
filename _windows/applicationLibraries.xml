@@ -1,21 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/chance" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="@types/express" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="@types/passport" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="@types/passport-local" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />

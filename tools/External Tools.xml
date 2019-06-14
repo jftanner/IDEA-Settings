@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="npm install" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="npm" />
+      <option name="PARAMETERS" value="install" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/jtanner/Documents/Development/depth-finder" />
+    </exec>
+  </tool>
+  <tool name="Build CSS" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="npm" />
+      <option name="PARAMETERS" value="run build-css" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,5 +1,4 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="ContextHelp" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -7,11 +6,6 @@
   <action id="GotoClass" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="ctrl q" />
-    <mouse-shortcut keystroke="alt button2" />
-    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
