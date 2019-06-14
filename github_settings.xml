@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="acf84f8d-9b04-441e-ab6b-baa203bbc884" name="james.tanner@tanndev.com">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

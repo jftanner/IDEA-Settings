@@ -194,8 +194,12 @@
           <option name="url" value="git@github.com:jftanner/game_md.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:tanndev/initiate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jtanner\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\tanne\IdeaProjects" />
   </component>
 </application>
