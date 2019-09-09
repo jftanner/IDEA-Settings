@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="post-merge" type="Bash" />
       <mapping pattern="dockerfile-redis" type="Docker file" />
+      <mapping ext="test" type="Docker file" />
       <mapping ext="jenkins-agent" type="Dockerfile" />
+      <mapping ext="tests" type="Dockerfile" />
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern=".secrets.baseline" type="JSON" />
