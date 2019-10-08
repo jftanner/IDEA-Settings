@@ -5,46 +5,48 @@
       <mapping pattern="dockerfile-redis" type="Docker file" />
       <mapping ext="test" type="Docker file" />
       <mapping ext="jenkins-agent" type="Dockerfile" />
+      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="tests" type="Dockerfile" />
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern=".secrets.baseline" type="JSON" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
-      <mapping pattern="ssh-config" type="PLAIN_TEXT" />
-      <mapping pattern=".publish.env" type="PLAIN_TEXT" />
-      <mapping pattern="mit_lcense" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern="Apache_notice" type="PLAIN_TEXT" />
-      <mapping pattern="software_license_agreement" type="PLAIN_TEXT" />
-      <mapping pattern="WHERE-WAS-I" type="PLAIN_TEXT" />
-      <mapping pattern="watch-css" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="uploads" type="PLAIN_TEXT" />
-      <mapping pattern="jwt_secret" type="PLAIN_TEXT" />
-      <mapping pattern="session_secret" type="PLAIN_TEXT" />
-      <mapping pattern="JenkinsAgent" type="PLAIN_TEXT" />
       <mapping pattern="Apache2-Kubernetes" type="PLAIN_TEXT" />
-      <mapping pattern="NA Artifactory" type="PLAIN_TEXT" />
-      <mapping pattern="holowaychuk_license" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="Apache_project" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="software_license_agreement" type="PLAIN_TEXT" />
+      <mapping pattern="watch-css" type="PLAIN_TEXT" />
+      <mapping pattern="jwt_secret" type="PLAIN_TEXT" />
+      <mapping pattern="uploads" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping pattern="build-css" type="PLAIN_TEXT" />
+      <mapping pattern="NA Artifactory" type="PLAIN_TEXT" />
+      <mapping pattern="ssh-config" type="PLAIN_TEXT" />
+      <mapping pattern="WHERE-WAS-I" type="PLAIN_TEXT" />
+      <mapping pattern=".publish.env" type="PLAIN_TEXT" />
+      <mapping pattern="session_secret" type="PLAIN_TEXT" />
       <mapping pattern="EU Artifactory" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
-      <mapping ext="license" type="PLAIN_TEXT" />
-      <mapping ext="regex" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsAgent" type="PLAIN_TEXT" />
+      <mapping pattern="Apache_notice" type="PLAIN_TEXT" />
+      <mapping pattern="mit_lcense" type="PLAIN_TEXT" />
+      <mapping pattern="build-css" type="PLAIN_TEXT" />
+      <mapping pattern="holowaychuk_license" type="PLAIN_TEXT" />
       <mapping ext="standard" type="PLAIN_TEXT" />
-      <mapping ext="0_no_copyleft_exception" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="cert" type="PLAIN_TEXT" />
-      <mapping ext="hbs" type="PLAIN_TEXT" />
-      <mapping ext="game" type="PLAIN_TEXT" />
       <mapping ext="secret" type="PLAIN_TEXT" />
       <mapping ext="jenkins" type="PLAIN_TEXT" />
+      <mapping ext="regex" type="PLAIN_TEXT" />
+      <mapping ext="game" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="0_no_copyleft_exception" type="PLAIN_TEXT" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="license" type="PLAIN_TEXT" />
+      <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
+      <removed_mapping ext="dockerfile" approved="true" type="Docker file" />
     </extensionMap>
   </component>
 </application>
