@@ -194,4 +194,7 @@
     </option>
     <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/C:\Users\jtanner\Documents\Development" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
 </application>
