@@ -28,4 +28,7 @@
     <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingLevelCount" value="4" />
   </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
+  </component>
 </application>
