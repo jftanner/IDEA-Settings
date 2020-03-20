@@ -5,10 +5,5 @@
       <option name="name" value="Docker Hub" />
       <option name="username" value="jftanner" />
     </DockerRegistry>
-    <DockerRegistry email="jftanner@us.ibm.com">
-      <option name="address" value="wicked-docker-local.artifactory.swg-devops.com" />
-      <option name="name" value="Wicked Docker" />
-      <option name="username" value="jftanner@us.ibm.com" />
-    </DockerRegistry>
   </component>
 </application>
