@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="false" />
-    <option name="myShellPath" value="ubuntu" />
+    <option name="myShellPath" value="ubuntu run" />
   </component>
 </application>
