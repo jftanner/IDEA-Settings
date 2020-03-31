@@ -26,8 +26,8 @@
       <mapping pattern="JenkinsAgent" type="PLAIN_TEXT" />
       <mapping pattern="session_secret" type="PLAIN_TEXT" />
       <mapping pattern="Apache_project" type="PLAIN_TEXT" />
-      <mapping pattern="build-css" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="build-css" type="PLAIN_TEXT" />
       <mapping pattern="Apache2-Kubernetes" type="PLAIN_TEXT" />
       <mapping pattern="EU Artifactory" type="PLAIN_TEXT" />
       <mapping ext="regex" type="PLAIN_TEXT" />
