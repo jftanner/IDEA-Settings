@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="post-merge" type="Bash" />
       <mapping pattern="dockerfile-redis" type="Docker file" />
       <mapping ext="test" type="Docker file" />
       <mapping ext="jenkins-agent" type="Dockerfile" />
@@ -26,8 +25,8 @@
       <mapping pattern="JenkinsAgent" type="PLAIN_TEXT" />
       <mapping pattern="session_secret" type="PLAIN_TEXT" />
       <mapping pattern="Apache_project" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="build-css" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="Apache2-Kubernetes" type="PLAIN_TEXT" />
       <mapping pattern="EU Artifactory" type="PLAIN_TEXT" />
       <mapping ext="regex" type="PLAIN_TEXT" />
@@ -46,6 +45,7 @@
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <removed_mapping ext="dockerfile" approved="true" type="Docker file" />
       <mapping pattern="ignore" type="Git exclude file" />
+      <mapping pattern="post-merge" type="Bash" />
     </extensionMap>
   </component>
 </application>
